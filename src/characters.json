@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Homer",
+        "image": "./assets/images/homer.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Marge",
+        "image": "./assets/images/marge.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Bart",
+        "image": "./assets/images/bart.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Lisa",
+        "image": "./assets/images/lisa.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Maggie",
+        "image": "./assets/images/maggie.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Ned",
+        "image": "./assets/images/ned.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Moe",
+        "image": "./assets/images/moe.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Apu",
+        "image": "./assets/images/apu.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Barney",
+        "image": "./assets/images/barney.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Mr. Burns",
+        "image": "./assets/images/burns.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Krusty the Clown",
+        "image": "./assets/images/krusty.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Principal Skinner",
+        "image": "./assets/images/skinner.png",
+        "clicked": false
+    }
+]
